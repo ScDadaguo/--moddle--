@@ -1,0 +1,21 @@
+<component name="libraryTable">
+  <library name="commons-collections4-4">
+    <CLASSES>
+      <root url="file://D:/Tomcat85/lib/commons-collections4-4.1" />
+      <root url="file://D:/Tomcat85/lib/commons-lang-2.6" />
+      <root url="file://D:/Tomcat85/lib/commons-logging-1.2" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="file://D:/Tomcat85/lib/commons-collections4-4.1/apidocs" />
+      <root url="file://D:/Tomcat85/lib/commons-lang-2.6/apidocs" />
+      <root url="file://D:/Tomcat85/lib/commons-logging-1.2/apidocs" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="file://D:/Tomcat85/lib/commons-lang-2.6" />
+    </SOURCES>
+    <jarDirectory url="file://D:/Tomcat85/lib/commons-collections4-4.1" recursive="false" />
+    <jarDirectory url="file://D:/Tomcat85/lib/commons-lang-2.6" recursive="false" />
+    <jarDirectory url="file://D:/Tomcat85/lib/commons-logging-1.2" recursive="false" />
+    <jarDirectory url="file://D:/Tomcat85/lib/commons-lang-2.6" recursive="false" type="SOURCES" />
+  </library>
+</component>
